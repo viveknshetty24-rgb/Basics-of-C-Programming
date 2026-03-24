@@ -6,7 +6,7 @@ Currently, I know basic C concepts such as:
 
 - Printing output
 - Data types and variables
-- Conditionals (if-else, switch)
+- Conditionals (if,if-else, switch)
 - Loops (for, while, do-while)
 - Basic arrays (print elements, reverse array, sum of elements)
 - Basic functions
