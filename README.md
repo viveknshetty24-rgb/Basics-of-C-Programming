@@ -9,7 +9,7 @@ Currently, I know basic C concepts such as:
 - Conditionals (if,if-else, switch)
 - Loops (for, while, do-while)
 - Basic arrays (print elements, reverse array, sum of elements)
-- Basic functions
+- Basic functions 
 - Basic pointers (sum of two numbers using pointers)
 
-I will keep adding more practice programs as I continue learning.
+I will keep adding more practice programs as I continue my  learning in Programming.
