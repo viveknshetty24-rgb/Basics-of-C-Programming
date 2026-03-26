@@ -8,5 +8,6 @@ Programs included:
 * Area of Square
 * Area of Rectangle
 * Area of Circle
+* Volume of a Cylinder
 
 These programs are written for practice while learning the basics of the C programming language.
