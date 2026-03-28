@@ -1,47 +1,60 @@
-🔁 Loops in C
+# 🔁 Loops in C
 
-This project covers the implementation of different types of loops in C, including:
+This project demonstrates the implementation of different types of loops in C:
 
-- "while" loop
-- "do-while" loop
-- "for" loop
+* While loop
+* Do-While loop
+* For loop
 
-Each loop is demonstrated with basic programs to understand its working and usage.
-
----
-
-🔹 1. While Loop
-
-Used when the condition is checked before execution and the number of iterations is not fixed.
-
-Programs:
+Each loop is explained using simple programs to understand its working and usage.
 
 ---
 
-🔹 2. Do-While Loop
+## 🔹 1. While Loop
 
-Executes at least once before checking the condition.
+Used when the condition is checked **before execution** and the number of iterations is not fixed.
 
-Programs:
+**Programs:**
 
----
-
-🔹 3. For Loop
-
-Used when the number of iterations is known.
-
-Programs:
+* numbers.c → Prints numbers from 1 to 10.
+* numbers_rev.c → Prints numbers from 10 to 1.
 
 ---
 
-🎯 Objective
+## 🔹 2. Do-While Loop
 
-- Understand different types of loops
-- Learn how to control program flow
-- Build basic logic using repetition
+Executes the loop body **at least once** before checking the condition.
+
+**Programs:**
+
+* (To be added)
 
 ---
 
-📝 Note
+## 🔹 3. For Loop
 
-All programs are written in C language and focus on clarity and understanding of looping concepts.
+Used when the number of iterations is **known beforehand**.
+
+**Programs:**
+
+* (To be added)
+
+---
+
+## 🎯 Objective
+
+* Understand different types of loops
+* Learn how to control program flow
+* Build basic logic using repetition
+
+---
+
+## 📝 Note
+
+All programs are written in C and focus on clarity and understanding of looping concepts.
+
+---
+
+## 👨‍💻 Author
+
+Vivek Shetty
