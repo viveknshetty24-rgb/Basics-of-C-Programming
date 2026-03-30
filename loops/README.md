@@ -16,8 +16,8 @@ Used when the condition is checked **before execution** and the number of iterat
 
 **Programs:**
 
-* numbers.c → Prints numbers from 1 to 10.
-* numbers_rev.c → Prints numbers from 10 to 1.
+* numbers.c -> Prints numbers from 1 to 10.
+* numbers_rev.c -> Prints numbers from 10 to 1.
 
 ---
 
@@ -27,7 +27,7 @@ Executes the loop body **at least once** before checking the condition.
 
 **Programs:**
 
-* (To be added)
+* sum_all.c -> Returns the sum of all numbers from 1 to the entered target number.
 
 ---
 
