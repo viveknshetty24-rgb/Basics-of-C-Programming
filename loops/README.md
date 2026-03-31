@@ -28,6 +28,7 @@ Executes the loop body **at least once** before checking the condition.
 **Programs:**
 
 * sum_all.c -> Returns the sum of all numbers from 1 to the entered target number.
+* sum_of_digits.c -> Returns the sum of all digits of the entered number.
 
 ---
 
