@@ -5,6 +5,9 @@ This project demonstrates the implementation of different types of loops in C:
 * While loop
 * Do-While loop
 * For loop
+* Jump Statements
+  ->break
+  ->continue
 
 Each loop is explained using simple programs to understand its working and usage.
 
@@ -40,6 +43,15 @@ Used when the number of iterations is **known beforehand**.
 
 * even_sum.c -> Returns all even numbers between 2 and 20 and also returns their sum.
 * odd_sum.c -> Returns all odd number between 1 and enterd number and also returns their sum.
+
+##🔹 4. Jump Statements
+
+Used to control the flow of loops instantly by skipping or terminating iterations.
+
+**Programs:**
+
+*
+*
 
 ---
 
