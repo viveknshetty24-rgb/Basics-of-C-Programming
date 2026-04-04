@@ -8,7 +8,7 @@ Currently, I know basic C concepts such as:
 - Data types and variables
 - Conditionals (if,if-else, switch)
 - Loops (for, while, do-while)
-- Jump Statements(break,continue,goto)
+- Jump Statements(break,continue)
 - Basic arrays (print elements, reverse array, sum of elements)
 - Basic functions 
 - Basic pointers (sum of two numbers using pointers)
