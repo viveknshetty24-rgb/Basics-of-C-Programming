@@ -50,8 +50,8 @@ Used to control the flow of loops instantly by skipping or terminating iteration
 
 **Programs:**
 
-*
-*
+* break_example.c -> Prints numbers from 0 to 5 but stops the loop when it reaches 3 using break.
+* continue_example.c -> Prints numbers from 0 to 10 but skips 5 using continue.
 
 ---
 
