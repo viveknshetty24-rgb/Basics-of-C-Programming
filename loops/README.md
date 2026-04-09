@@ -43,6 +43,7 @@ Used when the number of iterations is **known beforehand**.
 
 * even_sum.c -> Returns all even numbers between 2 and 20 and also returns their sum.
 * odd_sum.c -> Returns all odd number between 1 and enterd number and also returns their sum.
+* table.c -> Returns table of the enterd number.
 
 ##🔹 4. Jump Statements
 
