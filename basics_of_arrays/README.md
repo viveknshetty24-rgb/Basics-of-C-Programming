@@ -13,7 +13,5 @@ This folder contains basic array programs in C.
 - **Maximum element in array** → Takes a set of elements entered by the user and returns the largest element
 - **Ascending order** → Takes a set of elements entered by the user and returns them in increasing order
 - **Descending order** → Takes a set of elements entered by the user and returns them in decreasing order
-- **Matrix addition** → Takes two matrices entered by the user and returns their sum
-- **Matrix multiplication** → Takes two matrices entered by the user and returns their product
-
+- 
 These programs are for practicing array basics.
