@@ -8,6 +8,7 @@ Concepts Covered
 - if-else
 - if-else-if
 - switch
+- ternary
 
 Programs
 
@@ -16,3 +17,4 @@ Programs
 - if.c – checks whether a number is greater than 5 using an if condition.
 - ternary.c – finds the greater number between two values using the ternary (conditional) operator.
 - greatest_number.c – finds the greatest of three numbers using if-else conditions.
+  
