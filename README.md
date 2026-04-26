@@ -10,7 +10,7 @@ Currently, I know basic C concepts such as:
 - Conditionals (if,if-else, switch)
 - Loops (for, while, do-while)
 - Jump Statements(break,continue)
-- Basic arrays (print elements, reverse array, sum of elements)
+- Basic arrays (print elements, reverse array, sum of elements,minimum and maximum element,ascending and descending order)
 - Basic functions 
 - Basic pointers (sum of two numbers using pointers)
 
