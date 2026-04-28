@@ -9,4 +9,5 @@ This repository contains my beginner-level C programs created while learning the
 - `logical_operators.c` → Usage of logical operators (`&&`, `||`, `!`)  
 - `student_details.c` → Basic structure-based or input/output program  
 - `user_input.c` → Taking input from user using `scanf`
-- `square.c` -> takes a number from usuer and returns square of that number
+- `square.c` -> Takes a number from user and returns square of that number
+- `cube.c` -> Takes a number from user and return cube of that number
