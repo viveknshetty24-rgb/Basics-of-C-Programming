@@ -4,10 +4,10 @@ This repository contains simple C programs to calculate the area of basic geomet
 
 Programs included:
 
-* Area of Triangle
-* Area of Square
-* Area of Rectangle
-* Area of Circle
-* Volume of a Cylinder
+-> `area_of_circle.c`
+-> `area_of_rectangle.c`
+-> `area_of_square.c`
+-> `area_of_triangle.c`
+-> `cylinder_volume.c`
 
 These programs are written for practice while learning the basics of the C programming language.
