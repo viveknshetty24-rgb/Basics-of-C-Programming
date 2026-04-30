@@ -19,8 +19,8 @@ Used when the condition is checked **before execution** and the number of iterat
 
 **Programs:**
 
-* numbers.c -> Prints numbers from 1 to 10.
-* numbers_rev.c -> Prints numbers from 10 to 1.
+* `numbers.c `-> Prints numbers from 1 to 10.
+* `numbers_rev.c `-> Prints numbers from 10 to 1.
 
 ---
 
@@ -30,8 +30,8 @@ Executes the loop body **at least once** before checking the condition.
 
 **Programs:**
 
-* sum_all.c -> Returns the sum of all numbers from 1 to the entered target number.
-* sum_of_digits.c -> Returns the sum of all digits of the entered number.
+* `sum_all.c` -> Returns the sum of all numbers from 1 to the entered target number.
+* `sum_of_digits.c`-> Returns the sum of all digits of the entered number.
 
 ---
 
@@ -41,9 +41,9 @@ Used when the number of iterations is **known beforehand**.
 
 **Programs:**
 
-* even_sum.c -> Returns all even numbers between 2 and 20 and also returns their sum.
-* odd_sum.c -> Returns all odd number between 1 and enterd number and also returns their sum.
-* table.c -> Returns table of the enterd number.
+* `even_sum.c` -> Returns all even numbers between 2 and 20 and also returns their sum.
+* `odd_sum.c` -> Returns all odd number between 1 and enterd number and also returns their sum.
+* `table.c` -> Returns table of the enterd number.
 
 ##🔹 4. Jump Statements
 
@@ -51,8 +51,8 @@ Used to control the flow of loops instantly by skipping or terminating iteration
 
 **Programs:**
 
-* break_example.c -> Prints numbers from 0 to 5 but stops the loop when it reaches 3 using break.
-* continue_example.c -> Prints numbers from 0 to 10 but skips 5 using continue.
+* `break_example.c` -> Prints numbers from 0 to 5 but stops the loop when it reaches 3 using break.
+* `continue_example.c` -> Prints numbers from 0 to 10 but skips 5 using continue.
 
 ---
 
