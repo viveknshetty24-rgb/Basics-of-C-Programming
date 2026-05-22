@@ -4,11 +4,11 @@ This folder contains basic C programs that demonstrate conditional statements.
 
 Concepts Covered
 
-- if
-- if-else
-- if-else-if
-- switch
-- ternary
+- `if`
+- `if-else`
+- `if-else-if`
+- `switch`
+- `ternary`
 
 Programs
 
