@@ -2,18 +2,18 @@
 
 This project demonstrates the implementation of different types of loops in C:
 
-* While loop
-* Do-While loop
-* For loop
-* Jump Statements
-  ->break
-  ->continue
+* `While loop`
+* `Do-While loop`
+* `For loop`
+* `Jump Statements`
+  ->`break`
+  ->`continue`
 
 Each loop is explained using simple programs to understand its working and usage.
 
 ---
 
-## 🔹 1. While Loop
+## 🔹`1. While Loop`
 
 Used when the condition is checked **before execution** and the number of iterations is not fixed.
 
@@ -24,7 +24,7 @@ Used when the condition is checked **before execution** and the number of iterat
 
 ---
 
-## 🔹 2. Do-While Loop
+## 🔹 `2. Do-While Loop`
 
 Executes the loop body **at least once** before checking the condition.
 
@@ -35,7 +35,7 @@ Executes the loop body **at least once** before checking the condition.
 
 ---
 
-## 🔹 3. For Loop
+## 🔹 `3. For Loop`
 
 Used when the number of iterations is **known beforehand**.
 
