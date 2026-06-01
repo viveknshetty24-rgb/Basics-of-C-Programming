@@ -56,7 +56,7 @@ Used to control the flow of loops instantly by skipping or terminating iteration
 
 ---
 
-## 🎯 Objective
+`## 🎯 Objective`
 
 * Understand different types of loops
 * Learn how to control program flow
@@ -64,12 +64,12 @@ Used to control the flow of loops instantly by skipping or terminating iteration
 
 ---
 
-## 📝 Note
+`## 📝 Note`
 
 All programs are written in C and focus on clarity and understanding of looping concepts.
 
 ---
 
-## 👨‍💻 Author
+`## 👨‍💻 Author`
 
 Vivek Shetty
