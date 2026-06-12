@@ -9,7 +9,7 @@ Currently, I know basic C concepts such as:
 - `Operators`
 - `Conditionals (if,if-else, switch)`
 - `Loops (for, while, do-while)`
--  `Simple Pattern Programs`
+- `Simple Pattern Programs`
 - `Jump Statements(break,continue)`
 -` Basic arrays (print elements, reverse array, sum of elements,minimum and maximum element,ascending and descending order)`
 - `Basic functions `
