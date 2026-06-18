@@ -12,5 +12,6 @@ This folder contains basic array programs in C.
 - `**Sum of array elements** `→ Takes a set of elements entered by the user and returns their sum
 - `**Minimum element in array**` → Takes a set of elements entered by the user and returns the smallest element
 - `**Maximum element in array** `→ Takes a set of elements entered by the user and returns the largest element
+- `Product of array elements`→Takes a set of elements entered by the user and returns their Product
   
 These programs are for practicing array basics.
