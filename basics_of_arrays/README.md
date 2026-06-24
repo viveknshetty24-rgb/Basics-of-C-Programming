@@ -13,7 +13,7 @@ This folder contains basic array programs in C.
 - `min_array.c` → Takes a set of elements entered by the user and returns the smallest element
 - `max_array.c `→ Takes a set of elements entered by the user and returns the largest element
 - `product_array.c`→Takes a set of elements entered by the user and returns their Product
-- `**Even elements of array**`→Takes a set of elements entered by the user and returns even numbers present in the array
+- `even_array.c`→Takes a set of elements entered by the user and returns even numbers present in the array
 - `**Odd elements of array**`→Takes a set of elements entered by the user and returns odd numbers present in the array 
   
 These programs are for practicing array basics.
