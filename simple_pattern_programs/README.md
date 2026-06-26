@@ -8,4 +8,4 @@ This folder contains simple C programming pattern problems using nested loops, c
 
 `- pyramid.c → Prints a center-aligned pyramid star pattern using nested loops based on user input, where each row contains an increasing odd number of stars centered with leading spaces, forming a symmetrical pyramid shape from 1 to n rows.`
 
-`number_square_pattern.c → Prints a square number pattern where each row contains the same number using nested loops based on user input.`
+`- number_square_pattern.c → Prints a square number pattern where each row contains the same number using nested loops based on user input.`
