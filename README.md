@@ -13,6 +13,5 @@ Currently, I know basic C concepts such as:
 - `Jump Statements(break,continue)`
 -` Basic arrays (print elements, reverse array, sum of elements,minimum and maximum element,ascending and descending order)`
 - `Basic functions `
-- `Basic pointers (sum of two numbers using pointers)`
 
-I will keep adding more practice programs as I continue my  learning in Programming.
+
