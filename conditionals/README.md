@@ -16,6 +16,6 @@ Programs
 - `even_odd.c` – checks whether a number is even or odd using if else condition.
 - `if.c` – checks whether a number is greater than 5 using an if condition.
 - `ternary.c` – finds the greater number between two values using the ternary (conditional) operator.
-- `greatest_number.c` – finds the greatest of three numbers using if-else conditions.
+- `greatest_number.c` – finds the greatest of three numbers using if-else-f(ladder) conditions.
 - `calculator.c` - simple calculator using switch case.
   
