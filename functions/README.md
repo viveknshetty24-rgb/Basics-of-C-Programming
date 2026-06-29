@@ -8,3 +8,4 @@ This folder contains basic function programs in C.
 
 - `square_of_num.c → Takes a number as input and returns its square using a function`
 - `cube_of_num.c → Takes a number as input and returns its cube using a function`
+- `fact.c → Takes a number as input and returns its factorial using a function`
