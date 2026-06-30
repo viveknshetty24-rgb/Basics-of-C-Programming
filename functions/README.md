@@ -1,4 +1,4 @@
-Functions Programs
+Basic Functions Programs
 
 A function is a reusable block of code that performs a specific task. It helps in reducing code repetition, improving readability, and making programs modular.
 
