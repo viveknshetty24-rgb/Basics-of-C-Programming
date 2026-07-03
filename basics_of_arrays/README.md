@@ -16,4 +16,4 @@ This folder contains basic array programs in C.
 - `even_array.c`→Takes a set of elements entered by the user and returns even numbers present in the array
 - `odd_array.c`→Takes a set of elements entered by the user and returns odd numbers present in the array 
   
-These programs are for practicing array basics.
+
