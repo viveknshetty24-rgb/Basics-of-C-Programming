@@ -10,3 +10,4 @@ This folder contains basic function programs in C.
 - `cube_of_num.c → Takes a number as input and returns its cube using a function`
 - `fact.c → Takes a number as input and returns its factorial using a function`
 - `areaofcircle.c  → Takes a number as input and returns area of the circle using the function`
+- `sum_of_num.c  → Takes 2 numbers as input and returns sum of the number using the function`
