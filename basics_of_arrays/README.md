@@ -14,6 +14,7 @@ This folder contains basic array programs in C.
 - `max_array.c `→ Takes a set of elements entered by the user and returns the largest element
 - `product_array.c`→Takes a set of elements entered by the user and returns their Product
 - `even_array.c`→Takes a set of elements entered by the user and returns even numbers present in the array
-- `odd_array.c`→Takes a set of elements entered by the user and returns odd numbers present in the array 
+- `odd_array.c`→Takes a set of elements entered by the user and returns odd numbers present in the array
+- `sum_even.c`→Takes a set of elements enterd by the user and returns sum of even numbers present in the array
   
 
