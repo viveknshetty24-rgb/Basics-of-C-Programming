@@ -16,5 +16,5 @@ This folder contains basic array programs in C.
 - `even_array.c`→Takes a set of elements entered by the user and returns even numbers present in the array
 - `odd_array.c`→Takes a set of elements entered by the user and returns odd numbers present in the array
 - `sum_even.c`→Takes a set of elements enterd by the user and returns sum of even numbers present in the array
-  
+- `sum_odd.c`→Takes a set of elements enterd by the user and returns sum of odd numbers present in the array
 
