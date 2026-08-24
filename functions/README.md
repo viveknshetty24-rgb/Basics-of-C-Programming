@@ -6,8 +6,9 @@ This folder contains basic function programs in C.
 
 `Programs`
 
-- `square_of_num.c → Takes a number as input and returns its square using a function`
-- `cube_of_num.c → Takes a number as input and returns its cube using a function`
-- `fact.c → Takes a number as input and returns its factorial using a function`
-- `areaofcircle.c  → Takes a number as input and returns area of the circle using the function`
-- `sum_of_num.c  → Takes 2 numbers as input and returns sum of the number using the function`
+- `square_of_num.c` → Takes a number as input and returns its square using a function
+- `cube_of_num.c` → Takes a number as input and returns its cube using a function
+- `fact.c` → Takes a number as input and returns its factorial using a function
+- `areaofcircle.c` → Takes a number as input and returns area of the circle using the function
+- `sum_of_num.c`  → Takes 2 numbers as input and returns sum of the number using the function
+- `evenodd.c` →  Takes a number and returns whether the number is odd or even using the funtion
