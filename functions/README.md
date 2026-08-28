@@ -12,3 +12,5 @@ This folder contains basic function programs in C.
 - `areaofcircle.c` → Takes a number as input and returns area of the circle using the function
 - `sum_of_num.c`  → Takes 2 numbers as input and returns sum of the number using the function
 - `evenodd.c` →  Takes a number and returns whether the number is odd or even using the funtion
+- `reverse.c` → Takes a number and reverses it using the function
+- `digits_count.c` → Takes a number and returns the number of digits present in that number using function
