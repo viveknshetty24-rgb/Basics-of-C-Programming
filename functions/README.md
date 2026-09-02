@@ -16,3 +16,4 @@ This folder contains basic function programs in C.
 - `digits_count.c` → Takes a number and returns the number of digits present in that number using function
 - `rect_area_func.c` → Takes length and breadth and returns area of rectangle using the function
 - `avg.c` → Takes 3 numbers as input and returns their average using function
+- `simple.c` → Takes principle amount,rate,time and returns the simple interest using function
