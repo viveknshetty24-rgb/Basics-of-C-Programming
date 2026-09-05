@@ -17,3 +17,4 @@ This folder contains basic function programs in C.
 - `rect_area_func.c` → Takes length and breadth and returns area of rectangle using the function
 - `avg.c` → Takes 3 numbers as input and returns their average using function
 - `simple.c` → Takes principle amount,rate,time and returns the simple interest using function
+- `remainder.c` → Takes 2 numbers and returns remainder of them using function when their are divided 
